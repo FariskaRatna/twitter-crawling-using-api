@@ -1,2 +1,2 @@
 # twitter-crawling-using-api
-Twitter crawling using python
+Twitter crawling using tweepy in python
